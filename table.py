@@ -1,6 +1,6 @@
 #this is the example of for loop statement
 
-num=14
+num=int(input('enter a number to calculate its multiplication'))
 n=int(input('enter limit'))
 for i in range(1, n):
  
